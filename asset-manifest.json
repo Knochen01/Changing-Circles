@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Knochen01.github.io/Changing-Circles/static/css/main.d85ea029.css",
+    "main.js": "/Knochen01.github.io/Changing-Circles/static/js/main.b48fd706.js",
+    "static/js/787.ec78c698.chunk.js": "/Knochen01.github.io/Changing-Circles/static/js/787.ec78c698.chunk.js",
+    "index.html": "/Knochen01.github.io/Changing-Circles/index.html",
+    "main.d85ea029.css.map": "/Knochen01.github.io/Changing-Circles/static/css/main.d85ea029.css.map",
+    "main.b48fd706.js.map": "/Knochen01.github.io/Changing-Circles/static/js/main.b48fd706.js.map",
+    "787.ec78c698.chunk.js.map": "/Knochen01.github.io/Changing-Circles/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85ea029.css",
+    "static/js/main.b48fd706.js"
+  ]
+}
